@@ -1,1 +1,1 @@
-# Cos700_5G_log_anomaly_detection_NLP
+# COS700_5G_log_anomaly_detection_NLP
